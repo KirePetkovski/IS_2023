@@ -1,0 +1,49 @@
+﻿@model List<@model Domashna.Domain.DomainModels.Tickets>
+
+@{
+    ViewData["Title"] = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<div class="container">
+    <div class="m-3">
+        <a class="btn btn-success" asp-controller="Tickets" asp-action="Create">Add new movie</a>
+    </div>
+
+    @for (int i = 0; i < Model.Count; i++)
+    {
+        var item = Model[i];
+        if (i % 3 == 0)
+        {
+    @:<div class="row">
+
+
+        }
+
+        <div class="col-md-3 m-4">
+            <div class="card" style="width: 20rem;height:50rem;">
+               
+                <div class="card-body">
+                    <h5 class="card-title">@item.MovieName</h5>
+
+                    <p class="card-text">Цена на билетот @item.TicketPrice ден</p>
+                    <p class="card-text">Датум на емитување @item.DateAvailable</p>
+                 
+                </div>
+                <div class="footer">
+                    <a asp-controller="Tickets" asp-action="AddProductToCard" asp-route-id="@item.Id" class="btn btn-info">Add To Card</a>
+                    <a asp-controller="Tickets" asp-action="Edit" asp-route-id="@item.Id" class="btn btn-secondary">Edit</a>
+                    <a asp-controller="Tickets" asp-action="Delete" asp-route-id="@item.Id" class="btn btn-secondary">Delete</a>
+
+                </div>
+            </div>
+        </div>
+
+
+        if (i % 3 == 2)
+        {
+    @:</div>
+    }
+
+    }
+</div>

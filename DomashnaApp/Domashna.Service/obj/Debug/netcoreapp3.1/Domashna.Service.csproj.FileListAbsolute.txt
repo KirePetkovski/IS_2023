@@ -1,0 +1,15 @@
+C:\Users\Kire\Desktop\test\DomashnaApp\Domashna.Service\bin\Debug\netcoreapp3.1\Domashna.Service.deps.json
+C:\Users\Kire\Desktop\test\DomashnaApp\Domashna.Service\bin\Debug\netcoreapp3.1\Domashna.Service.dll
+C:\Users\Kire\Desktop\test\DomashnaApp\Domashna.Service\bin\Debug\netcoreapp3.1\Domashna.Service.pdb
+C:\Users\Kire\Desktop\test\DomashnaApp\Domashna.Service\obj\Debug\netcoreapp3.1\Domashna.Service.csproj.AssemblyReference.cache
+C:\Users\Kire\Desktop\test\DomashnaApp\Domashna.Service\obj\Debug\netcoreapp3.1\Domashna.Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kire\Desktop\test\DomashnaApp\Domashna.Service\obj\Debug\netcoreapp3.1\Domashna.Service.AssemblyInfoInputs.cache
+C:\Users\Kire\Desktop\test\DomashnaApp\Domashna.Service\obj\Debug\netcoreapp3.1\Domashna.Service.AssemblyInfo.cs
+C:\Users\Kire\Desktop\test\DomashnaApp\Domashna.Service\obj\Debug\netcoreapp3.1\Domashna.Service.csproj.CoreCompileInputs.cache
+C:\Users\Kire\Desktop\test\DomashnaApp\Domashna.Service\obj\Debug\netcoreapp3.1\Domashna.Service.dll
+C:\Users\Kire\Desktop\test\DomashnaApp\Domashna.Service\obj\Debug\netcoreapp3.1\Domashna.Service.pdb
+C:\Users\Kire\Desktop\test\DomashnaApp\Domashna.Service\bin\Debug\netcoreapp3.1\Domashna.Domain.dll
+C:\Users\Kire\Desktop\test\DomashnaApp\Domashna.Service\bin\Debug\netcoreapp3.1\Domashna.Repository.dll
+C:\Users\Kire\Desktop\test\DomashnaApp\Domashna.Service\bin\Debug\netcoreapp3.1\Domashna.Domain.pdb
+C:\Users\Kire\Desktop\test\DomashnaApp\Domashna.Service\bin\Debug\netcoreapp3.1\Domashna.Repository.pdb
+C:\Users\Kire\Desktop\test\DomashnaApp\Domashna.Service\obj\Debug\netcoreapp3.1\Domashna.Service.csproj.CopyComplete
